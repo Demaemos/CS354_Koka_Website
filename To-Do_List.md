@@ -5,12 +5,13 @@ This is a shared team tracker for the Koka website, original programs, complex t
 ## Current Status and Access Notes \~
 
 - [x] Koka selected as the group's programming language. **Team plan**
-- [x] Initial member responsibilities assigned. **Team plan**
-- [x] Confirm that the instructor approved Koka and record the approval email. **Assignment requirement**
-- [x] Create and allow access of a shared Google Doc to each member of the group for the project. **Recommended**
-- [x] Inspect the GitHub repository's current `main` branch. As of November 18, 2026, it contains only a one-line `README.md`. **Recommended**
+- [x] Initial member responsibilities assigned.
+- [x] Confirm that the instructor approved Koka and record the approval email.
+- [x] Create and allow access of a shared Google Doc to each member of the group for the project. 
+- [x] Inspect the GitHub repository's current `main` branch. As of November 18, 2026, it contains only a one-line `README.md`. 
 - [x] Confirm the team's assigned ID = 1
-- [x] Confirm the exact class website URL: `https://csweb.boisestate.edu/~maxtaylor/classes/354au26/teams/1/`. **Assignment requirement**
+- [x] Confirm the exact class website URL: `https://csweb.boisestate.edu/~maxtaylor/classes/354au26/teams/1/`.
+      
 
 
 ## Phase 1: Coordinate and Plan \~
