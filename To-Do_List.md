@@ -1,16 +1,16 @@
 # **CS 354 Koka Group Project To-Do List**
 
-This is the shared team tracker for the Koka website, original programs, complex team program, deployment, and presentation. Mark an item complete only when the work itself and any required testing or review are complete. Detailed personal research notes for Porter are maintained separately in `Porter_To-Do_List.md`; the complete reference checklist is maintained in `Full_To-Do_List.md`.
+This is a shared team tracker for the Koka website, original programs, complex team program, deployment, and presentation. Mark an item complete only when the work itself and any accosiated or required testing/review material are complete. To mark an item as complete, remove the empty space between the "[ ]" of the relative listed task, and replace it with an "x". Make sure to commit the change after doing so, or else it will not correctly update the check-list completion for everyone to see.
 
 ## Current Status and Access Notes \~
 
 - [x] Koka selected as the group's programming language. **Team plan**
 - [x] Initial member responsibilities assigned. **Team plan**
-- [ ] Confirm that the instructor approved Koka and record the approval email. **Assignment requirement**
-- [ ] Obtain working read access to the shared Google Doc for progress auditing. The connector returned `403 PERMISSION_DENIED` on November 18, 2026. **Recommended**
+- [x] Confirm that the instructor approved Koka and record the approval email. **Assignment requirement**
+- [x] Create and allow access of a shared Google Doc to each member of the group for the project. **Recommended**
 - [x] Inspect the GitHub repository's current `main` branch. As of November 18, 2026, it contains only a one-line `README.md`. **Recommended**
-- [ ] Confirm the team's assigned ID, `N`, and write it here: `N = ______`. **Assignment requirement**
-- [ ] Confirm the exact class website URL: `https://csweb.boisestate.edu/~maxtaylor/classes/354au26/teams/N/`. **Assignment requirement**
+- [x] Confirm the team's assigned ID = 1
+- [x] Confirm the exact class website URL: `https://csweb.boisestate.edu/~maxtaylor/classes/354au26/teams/1/`. **Assignment requirement**
 
 
 ## Phase 1: Coordinate and Plan \~
