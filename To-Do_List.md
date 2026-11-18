@@ -8,6 +8,7 @@ This is a shared team tracker for the Koka website, original programs, complex t
 - [x] Initial member responsibilities assigned.
 - [x] Confirm that the instructor approved Koka and record the approval email.
 - [x] Create and allow access of a shared Google Doc to each member of the group for the project. 
+- [x] Create and invite each member to a group Discord Server for communication regarding this project.
 - [x] Inspect the GitHub repository's current `main` branch. As of November 18, 2026, it contains only a one-line `README.md`. 
 - [x] Confirm the team's assigned ID = 1
 - [x] Confirm the exact class website URL: `https://csweb.boisestate.edu/~maxtaylor/classes/354au26/teams/1/`.
