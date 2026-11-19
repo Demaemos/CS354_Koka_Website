@@ -99,10 +99,10 @@ This is a shared team tracker for the Koka website, original programs, complex t
 
 - **Tyler Andrews || *Employment Prospects** *\~ 
 
-    - [ ] Search for direct Koka job postings and record the search date and method.
-    - [ ] If direct Koka roles are scarce, say so plainly rather than implying a large job market.
-    - [ ] Explain adjacent employment value: functional programming, compiler engineering, type systems, effect systems, PL research, and related languages/tools.
-    - [ ] Identify relevant employers or research areas only with evidence.
+    - [x] Search for direct Koka job postings and record the search date and method.
+    - [x] If direct Koka roles are scarce, say so plainly rather than implying a large job market.
+    - [x] Explain adjacent employment value: functional programming, compiler engineering, type systems, effect systems, PL research, and related languages/tools.
+    - [x] Identify relevant employers or research areas only with evidence.
     - [ ] Distinguish current job-posting evidence from general skill-transfer analysis.
     - [ ] Cite dated, reliable sources and avoid using undated search snippets as evidence.
 

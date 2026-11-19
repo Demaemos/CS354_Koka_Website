@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Koka | Translators and Installation</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <a href="index.html"><strong>Discover Koka</strong></a>
+    <nav aria-label="Main navigation">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="installation.html" aria-current="page">Translators &amp; Installation</a></li>
+        <li><a href="resources.html">Documentation &amp; Papers</a></li>
+        <li><a href="comparison.html">Language Comparison</a></li>
+        <li><a href="employment.html">Employment</a></li>
+        <li><a href="examples.html">Program Examples</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Translators and Installation</h1>
+    <section>
+      <h2>Compiler</h2>
+      <p>Describe the official Koka compiler, supported platforms, generated code, and any editor integrations. Verify platform-specific details against the current release notes.</p>
+      <p><a href="https://github.com/koka-lang/koka/releases">Official releases and platform installers</a></p>
+    </section>
+    <section>
+      <h2>Install on Windows</h2>
+      <ol>
+        <li>Open Command Prompt and download the installer for the current release from the official release page.</li>
+        <li>Run the installer and follow its prompts. Native compilation also requires a C compiler and Windows build tools; review the installer output for prerequisites.</li>
+        <li>Open a new terminal and verify the installation with <code>koka --version</code>.</li>
+      </ol>
+      <pre><code>curl -sSL -o %TEMP%\install-koka.bat https://github.com/koka-lang/koka/releases/download/v3.2.9/install.bat
+%TEMP%\install-koka.bat</code></pre>
+    </section>
+    <section>
+      <h2>Install on macOS or Linux</h2>
+      <p>Use the official installation script linked from the current Koka release page. Check its documented prerequisites and verify with <code>koka --version</code>.</p>
+    </section>
+    <section>
+      <h2>Compile and run a program</h2>
+      <p>Document a tested command for compiling and running a <code>.kk</code> file, including the compiler version and operating system used.</p>
+    </section>
+  </main>
+  <footer><p>CS 354 Koka Language Project</p></footer>
+</body>
+</html>
